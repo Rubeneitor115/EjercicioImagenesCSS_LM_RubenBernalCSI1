@@ -1,0 +1,21 @@
+/*Rubén Bernal Ramos, CSI1*/
+
+/*Redondeo la imagen*/
+.redondeo{
+	border-radius: 50%;
+}
+
+/*Añado sombra a la imagen y le aplico un filtro sepia*/
+.imagen2{
+	filter: drop-shadow(10px 10px 0px blue) sepia(75%);
+}
+
+/*Establezco una proporcion horizontal a la imagen*/
+.proporciones{
+	aspect-ratio: 16/9;
+}
+
+/*Aplico un filtro sepia a la imagen*/
+.filtroSepia{
+	filter: sepia(75%);
+}
